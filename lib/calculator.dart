@@ -50,7 +50,7 @@ class _CalculatorState extends State<Calculator> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 const SizedBox(
-                  height: 20,
+                  height: 10,
                 ),
                 Container(
                   padding: const EdgeInsets.all(20),
